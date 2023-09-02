@@ -9,7 +9,7 @@
 </head>
 <body>
 	<script>
-		window.location.replace('https://southmonument.online/');
+		window.location.replace('https://westmonument.online/');
 	</script>
 </body>
 </html>
